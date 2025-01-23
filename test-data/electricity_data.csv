@@ -1,0 +1,101 @@
+area,consumptionKwh,outageDurationMinutes,outageReason,date
+Commercial,2067.23,40,Equipment Failure,2025-01-21
+Residential,1331.39,10,Equipment Failure,2025-01-13
+Downtown,1601.52,25,Storm Damage,2025-01-16
+Commercial,1794.72,12,Power Surge,2025-02-15
+Urban,1600.95,41,Maintenance,2025-01-11
+Suburb,2148.99,34,Scheduled Upgrade,2025-01-10
+Residential,700.04,15,Storm Damage,2025-02-15
+Mountain,2435.3,21,Maintenance,2025-01-02
+Metropolitan,1123.78,33,Load-shedding,2025-01-12
+Metropolitan,2053.47,59,Scheduled Upgrade,2025-01-16
+Suburb,1499.09,17,Storm Damage,2025-01-09
+Urban,1621.32,35,Load-shedding,2025-01-23
+Coastal,1323.05,17,Storm Damage,2025-02-11
+Metropolitan,981.34,14,Load-shedding,2025-02-12
+Rural,1504.59,39,Storm Damage,2025-01-29
+Urban,2284.73,21,Storm Damage,2025-02-24
+Suburb,1098.07,46,Storm Damage,2025-02-27
+Rural,970.11,17,Maintenance,2025-01-01
+Coastal,1766.96,11,Storm Damage,2025-03-02
+Mountain,2064.41,17,Scheduled Upgrade,2025-01-26
+Coastal,2282.36,39,Power Surge,2025-02-28
+Suburb,865.23,25,Maintenance,2025-02-05
+Urban,912.08,49,Maintenance,2025-02-03
+Downtown,1182.84,23,Scheduled Upgrade,2025-02-08
+Rural,1178.14,24,Maintenance,2025-02-22
+Metropolitan,1977.82,45,Storm Damage,2025-01-01
+Suburb,1726.21,17,Scheduled Upgrade,2025-01-07
+Suburb,1143.04,18,Equipment Failure,2025-02-22
+Rural,2068.61,31,Load-shedding,2025-02-10
+Urban,1987.69,20,Maintenance,2025-01-28
+Industrial,1050.37,13,Equipment Failure,2025-02-03
+Metropolitan,2401.23,10,Equipment Failure,2025-01-25
+Suburb,1023.87,59,Equipment Failure,2025-01-13
+Coastal,1029.16,38,Storm Damage,2025-01-06
+Coastal,1676.22,41,Power Surge,2025-01-12
+Suburb,1514.8,51,Maintenance,2025-01-19
+Residential,1569.24,29,Equipment Failure,2025-02-25
+Mountain,1911.53,30,Maintenance,2025-01-08
+Urban,827.68,29,Maintenance,2025-01-22
+Mountain,1445.91,33,Load-shedding,2025-01-05
+Metropolitan,729.8,48,Storm Damage,2025-02-27
+Industrial,1232.93,10,Maintenance,2025-01-27
+Downtown,2013.42,21,Equipment Failure,2025-01-16
+Suburb,2361.69,17,Scheduled Upgrade,2025-02-23
+Commercial,2322.58,11,Load-shedding,2025-02-26
+Mountain,2258.95,49,Maintenance,2025-02-03
+Suburb,996.01,25,Maintenance,2025-02-18
+Suburb,865.95,17,Maintenance,2025-01-07
+Commercial,1757.19,24,Maintenance,2025-02-15
+Industrial,1569.73,36,Load-shedding,2025-02-13
+Industrial,1754.08,23,Power Surge,2025-01-21
+Rural,1677.66,35,Equipment Failure,2025-02-27
+Metropolitan,2279.62,49,Maintenance,2025-02-08
+Commercial,1812.59,19,Power Surge,2025-01-23
+Coastal,2258.24,35,Scheduled Upgrade,2025-02-12
+Urban,1114.16,23,Power Surge,2025-01-12
+Coastal,2412.36,38,Maintenance,2025-02-05
+Commercial,931.5,35,Power Surge,2025-02-14
+Downtown,707.82,31,Maintenance,2025-01-02
+Rural,1897.84,53,Equipment Failure,2025-03-01
+Mountain,1851.26,27,Equipment Failure,2025-02-05
+Downtown,2394.18,19,Load-shedding,2025-01-08
+Mountain,2468.86,13,Storm Damage,2025-01-10
+Suburb,1168.87,19,Storm Damage,2025-02-20
+Commercial,964.49,34,Maintenance,2025-02-18
+Metropolitan,2191.01,13,Equipment Failure,2025-01-13
+Urban,1078.74,32,Storm Damage,2025-03-01
+Commercial,1408.12,26,Power Surge,2025-02-13
+Urban,2184.67,38,Maintenance,2025-01-20
+Commercial,1784.68,38,Storm Damage,2025-02-22
+Commercial,2411.9,11,Equipment Failure,2025-02-21
+Commercial,1360.48,49,Storm Damage,2025-01-16
+Mountain,897.09,52,Equipment Failure,2025-02-25
+Coastal,1000.51,24,Maintenance,2025-02-01
+Mountain,1960.4,48,Load-shedding,2025-02-12
+Suburb,1088.49,27,Storm Damage,2025-01-04
+Rural,1213.21,34,Load-shedding,2025-02-22
+Industrial,1276.67,29,Storm Damage,2025-01-11
+Downtown,1440.38,47,Equipment Failure,2025-01-13
+Suburb,1808.24,54,Storm Damage,2025-01-21
+Mountain,2110.05,33,Maintenance,2025-02-23
+Urban,1032.53,11,Maintenance,2025-01-24
+Metropolitan,945.11,35,Storm Damage,2025-01-20
+Downtown,1205.11,25,Power Surge,2025-01-28
+Mountain,1581.12,55,Power Surge,2025-01-22
+Downtown,775.21,17,Power Surge,2025-02-14
+Mountain,1961.78,23,Power Surge,2025-03-02
+Industrial,1235.04,57,Power Surge,2025-02-08
+Industrial,1466.2,56,Equipment Failure,2025-03-01
+Mountain,1330.25,13,Maintenance,2025-01-16
+Urban,1822.57,26,Power Surge,2025-01-20
+Mountain,1188.22,24,Equipment Failure,2025-01-30
+Downtown,2452.12,23,Equipment Failure,2025-01-07
+Commercial,2147.31,53,Storm Damage,2025-01-09
+Coastal,2408.96,26,Maintenance,2025-01-26
+Commercial,1332.6,28,Load-shedding,2025-01-30
+Metropolitan,2093.13,46,Maintenance,2025-01-17
+Industrial,2190.64,10,Maintenance,2025-01-21
+Residential,1128.44,41,Maintenance,2025-01-10
+Commercial,1278.83,56,Equipment Failure,2025-02-01
