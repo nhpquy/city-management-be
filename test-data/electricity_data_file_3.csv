@@ -1,0 +1,29 @@
+area,consumptionKwh,outageDurationMinutes,outageReason,date
+Suburb,2319.9,112,Equipment Failure,2025-11-23
+Coastal,1327.19,84,Maintenance,2025-06-08
+Rural,1126.86,93,Maintenance,2025-07-09
+Rural,1117.63,108,Natural Disaster,2025-12-30
+Residential,1859.37,70,Load-shedding,2025-09-11
+Coastal,1986.71,56,Load-shedding,2025-09-05
+Downtown,2418.6,94,Maintenance,2025-08-08
+Suburb,1105.26,35,Scheduled Upgrade,2025-05-01
+Urban,1070.14,96,Maintenance,2025-01-02
+Urban,1735.22,115,Maintenance,2025-08-05
+Industrial,1990.37,15,Equipment Failure,2025-02-18
+Urban,1056.61,81,Maintenance,2025-07-19
+Coastal,1912.97,109,Natural Disaster,2025-01-16
+Industrial,1952.14,29,Equipment Failure,2025-11-08
+Residential,1470.09,49,Scheduled Upgrade,2025-02-03
+Industrial,1579.21,29,Equipment Failure,2025-10-07
+Urban,2368.19,119,Equipment Failure,2025-01-10
+Mountain,1499.65,106,Scheduled Upgrade,2025-09-14
+Commercial,1808.9,103,Equipment Failure,2025-01-24
+Residential,1485.27,75,Scheduled Upgrade,2025-07-14
+Commercial,1254.75,51,Load-shedding,2025-09-30
+Downtown,1525.59,73,Equipment Failure,2025-02-24
+Residential,1327.34,44,Scheduled Upgrade,2025-03-07
+Suburb,2400.89,51,Equipment Failure,2025-05-23
+Residential,1674.41,85,Equipment Failure,2025-09-23
+Residential,2382.12,83,Equipment Failure,2025-10-16
+Industrial,1266.4,108,Load-shedding,2025-09-09
+Metropolitan,1095.29,102,Natural Disaster,2025-11-13

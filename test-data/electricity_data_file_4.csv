@@ -1,0 +1,25 @@
+area,consumptionKwh,outageDurationMinutes,outageReason,date
+Coastal,1864.25,115,Load-shedding,2025-08-29
+Rural,1661.67,79,Natural Disaster,2025-10-13
+Urban,1347.96,108,Scheduled Upgrade,2025-12-22
+Residential,2442.9,53,Equipment Failure,2025-09-18
+Urban,1705.94,62,Load-shedding,2025-07-29
+Urban,1803.47,38,Load-shedding,2025-03-03
+Metropolitan,1360.56,44,Equipment Failure,2025-03-30
+Coastal,1731.15,115,Maintenance,2025-10-25
+Industrial,1813.0,71,Load-shedding,2025-07-20
+Metropolitan,1087.22,63,Natural Disaster,2025-02-11
+Mountain,2202.93,55,Natural Disaster,2025-09-10
+Metropolitan,815.28,83,Maintenance,2025-01-11
+Commercial,2422.11,107,Natural Disaster,2025-11-11
+Metropolitan,1335.13,99,Scheduled Upgrade,2025-08-23
+Industrial,1851.51,79,Equipment Failure,2025-07-19
+Residential,2459.88,34,Scheduled Upgrade,2025-02-02
+Metropolitan,1756.8,47,Maintenance,2025-12-12
+Downtown,1988.64,41,Natural Disaster,2025-06-26
+Rural,2119.94,106,Natural Disaster,2025-02-06
+Industrial,1282.8,90,Scheduled Upgrade,2025-03-24
+Metropolitan,2201.81,39,Load-shedding,2026-01-01
+Mountain,1990.84,30,Maintenance,2025-01-06
+Urban,1173.4,68,Equipment Failure,2025-07-01
+Commercial,1546.72,102,Natural Disaster,2025-09-13
