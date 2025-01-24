@@ -6,7 +6,7 @@ The backend of the City Management System is built using Spring Boot. This backe
 
 ## Features
 
-- **RESTful API**: Provides endpoints for CRUD operations on cities and electricities.
+- **RESTful API**: Provides endpoints for CRUD operations on cities, electricity, water supply, ...
 - **Integration**: Connects to both MySQL database.
 - **Exception Handling**: Custom error handling for not found resources.
 
@@ -55,5 +55,18 @@ mvn spring-boot:run
 ```
 
 The backend server will be available at [http://localhost:8080](http://localhost:8080).
+
+## Swagger API Documentation
+
+The backend API is documented using Swagger, which provides a user-friendly interface for exploring the available endpoints. 
+To access the Swagger UI, navigate to [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) after starting the backend server.
+
+[alt text](https://github.com/nhpquy/city-management-be/blob/main/doc/swagger-example.png?raw=true)
+
+
+## Database Documentation
+The backend service to organize data for a city, covering the water supply, electricity, and waste management.
+
+[alt text](https://github.com/nhpquy/city-management-be/blob/main/doc/database-diagram.png?raw=true)
 
 ---
